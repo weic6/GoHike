@@ -1,0 +1,51 @@
+/* App.css */
+.nav-space {
+  margin-left: 20px;
+}
+
+.navbar {
+  position: fixed;
+  font-size: larger;
+  font-weight: bolder;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  padding: 15px 10px;
+  display: flex;
+  flex-direction: row;
+  z-index: 1000;
+}
+
+a {
+  font-weight: 500;
+  color: #d9b8c4;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #957186;
+}
+
+.content {
+  color: #333;
+  margin-top: 70px;
+  /* margin-left: 0; */
+  /* padding: 20px; */
+}
+
+.app-container {
+  display: flex;
+  background-color: #fff;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  /* position: fixed; */
+  color: rgba(255, 255, 255, 0.5);
+  background-color: #333;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: 0;
+  bottom: 0;
+}
