@@ -1,10 +1,6 @@
 # GoHike
 
-cd project folder
-
-npm i
-
-npm start (will start the front end and backend automatically)
+Go, Hikes! Explore your next hiking spots!
 
 ## Run guide
 
