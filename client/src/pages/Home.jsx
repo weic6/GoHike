@@ -8,7 +8,6 @@ function App() {
       <h1>Go, Hike!</h1>
       <p>
         Welcome to GoHike! <br />
-        Jump right in andexplire our many hikes. <br />
         Feel free to share some of your own and comment on others!
       </p>
     </div>
