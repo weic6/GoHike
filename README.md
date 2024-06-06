@@ -1,6 +1,6 @@
 # GoHike
 
-Go, Hikes! Explore your next hiking spots!
+Go, Hikes! Explore your next hiking spots! This full stack web app was built with Express and Reacts.
 
 ## Run guide
 
