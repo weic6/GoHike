@@ -22,5 +22,7 @@ npm start
 - [ ] add gif walkthrough
 - [ ] add register
 - [ ] add login status update
+- [ ] add review page
+- [ ] add detail page
 - [ ] update nav bar dynamics when user login
-- [ ] update readable routes name
+- [x] update readable routes name
