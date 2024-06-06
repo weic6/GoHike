@@ -1,4 +1,4 @@
-//model/campground.js
+//model/hike.js
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 const Review = require("./review");
@@ -65,4 +65,4 @@ HikesSchema.post("findOneAndDelete", async function (doc) {
   // console.log("delete it");
 });
 
-module.exports = mongoose.model("Hikes", HikesSchema); // creates a model from the defined HikesSchema. The mongoose.model method takes two arguments: the name of the model (in this case, "Campground"), and the schema to base the model on. the created model is then exported from the file, making it available for import in other files within the Node.js project
+module.exports = mongoose.model("Hikes", HikesSchema); // creates a model from the defined HikesSchema. The mongoose.model method takes two arguments: the name of the model (in this case, "Hikes"), and the schema to base the model on. the created model is then exported from the file, making it available for import in other files within the Node.js project
